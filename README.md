@@ -7,6 +7,6 @@ this is a exe created for testing and Cybersecurity Purposes
 
 ```
 git clone https://github.com/benjamin-7869/Nexera.git
-cd Vurtle
-bash Vurtle.sh
+cd Nexera
+python nexera.py
 ```
