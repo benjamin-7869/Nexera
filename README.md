@@ -1,6 +1,9 @@
 # What Is Nexera
 this is a exe created for testing and Cybersecurity Purposes
 
+# More Details 
+- 
+
 ![Nexera](https://i.postimg.cc/sxJbhDHS/images.jpg)
 
 ## Installing (Kali Linux/Termux):
