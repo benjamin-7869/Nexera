@@ -15,3 +15,13 @@ git clone https://github.com/benjamin-7869/Nexera.git
 cd Nexera
 python nexera.py
 ```
+
+## This Tool Tested On :
+<ul>
+  <li>Kali Linux</li>
+  <li>Windows(WSL)</li>
+  <li>Termux</li>
+  <li>MacOS</li>
+  <li>Ubuntu</li>
+  <li>Parrot Sec OS</li>
+</ul>
